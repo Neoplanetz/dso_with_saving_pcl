@@ -7,7 +7,8 @@ You can install it to follow https://github.com/JakobEngel/dso.
 ## Usage
 It also same thing https://github.com/JakobEngel/dso. It can use DSO on using dataset or realtime ROS.
 To use DSO with saving Point cloud data, You just add parameter option for sampleoutput.
- Example: $ rosrun dso_ros dso_live image:=/mv_25001549/image_raw calib=/home/neoplanetz/catkin_ws/src/dso_ros/camera.txt sampleoutput=1 quiet=1 nolog=1
+
+     Example: $ rosrun dso_ros dso_live image:=/mv_25001549/image_raw calib=/home/neoplanetz/catkin_ws/src/dso_ros/camera.txt sampleoutput=1 quiet=1 nolog=1
  
  And press the 'Save PointCloud' button when you want to save point cloud data.
  
