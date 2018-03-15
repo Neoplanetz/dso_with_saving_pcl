@@ -19,6 +19,6 @@ To use DSO with saving Point cloud data, You just add parameter option for sampl
  
  And press the 'Save PointCloud' button when you want to save point cloud data.
  
- ![ScreenShot](images/dso_save_point.png)
+ ![ScreenShot](images/new_dso_save_point.png)
  
  #### Ask any issues via Github or contacting neoplanetz@gmail.com
